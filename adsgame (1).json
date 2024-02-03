@@ -7,13 +7,13 @@
 "admobInterId": "ca-app-pub-3940256099942544/1033173712",
 "admobReward": "ca-app-pub-3940256099942544/5224354917",
 
-"ApplovingRunAds":"true",
+"ApplovingRunAds":"false",
 "ApplovingSdkKey": "_BAcCbeFoCiIcvJM81eMofy13FNkigCmM8AauGZdfRhK5f6DhXfuMciQbeyp0HGIvQCL5lheSIOuRdeHbuwMZu",
 "Applovingbanner": "banner",
 "Applovinginterstitial": "inter",
 "Applovingreward": "reward",
 
-"unityRunAds":"true",
+"unityRunAds":"false",
 "unityAppID": "4390175",
 "unitybanner": "Banner_Android",
 "unityinterstitial": "Interstitial_Android",
